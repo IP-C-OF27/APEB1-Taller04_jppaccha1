@@ -19,7 +19,7 @@ public class Ejercicio01 {
 }
 /***
  * EVIDENCIA DEL RUN:
- * run:
+run:
 Ingrese la base: 5
 Ingrese la altura: 4
 El area del triangulo es: 10.0

@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 /**
  * Ejercicio 03: "Se desea desarrollar un algoritmo que permita mostrar la tabla
  * de multiplicar de un número ingresado por el usuario; solo en el caso que el
@@ -10,7 +8,6 @@ import java.util.Scanner;
  * @version 1.0
  */
 public class Ejercicio03 {
-
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         int numero;
@@ -33,6 +30,7 @@ public class Ejercicio03 {
     }
 }
 /**
+ *EVIDENCIA DEL RUN:
 run:
 Ingrese el numero que desee para mostrar la tabla: 5
 5 * 1 = 5

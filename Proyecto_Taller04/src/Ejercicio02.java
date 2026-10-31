@@ -19,7 +19,8 @@ public class Ejercicio02 {
     }
 }
 /***
-run:
+ *EVIDENCIA DEL RUN:
+run :
 Ingrese los gastos: 250 59 20
 El gasto total de los tres hijos es: 329.0
 BUILD SUCCESSFUL (total time: 12 seconds)
